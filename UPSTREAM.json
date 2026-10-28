@@ -1,0 +1,9 @@
+{
+  "curseforge": "https://www.curseforge.com/minecraft/mc-mods/blood-magic-unofficial-port",
+  "source": "https://github.com/WayofTime/BloodMagic/tree/1.21.1",
+  "source_basis": "27d76badbd691c664b274c65de72a21687e6cff8 (reference branch only; exact CurseForge source not verified)",
+  "author_jar": "bloodmagic-3.4.0-46-alpha.jar",
+  "sha256": "b8ae7b8024dfdcf17eb9cc165f3c648d23ae2a1528c839414f09da5bdfacd5dd",
+  "local_binary_changed": false,
+  "artifact_license": "CC BY 4.0"
+}
